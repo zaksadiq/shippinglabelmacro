@@ -15,5 +15,5 @@ Excel Workbook with Macro to generate PDF shipping labels from shipping data row
 ![Generated pdf labels](https://github.com/zaksadiq/shippinglabelmacro/blob/581ff0d13bbc3fcd14d2f8da087bb0f8dfaf9562/Images/4.png)
 *Generated pdf labels*
 
-![Sample pdf shipping label](https://github.com/zaksadiq/shippinglabelmacro/blob/581ff0d13bbc3fcd14d2f8da087bb0f8dfaf9562/Images/5.png)
-*Sample pdf shipping labels*
+![Sample pdf result](https://github.com/zaksadiq/shippinglabelmacro/blob/581ff0d13bbc3fcd14d2f8da087bb0f8dfaf9562/Images/5.png)
+*Sample pdf result*
